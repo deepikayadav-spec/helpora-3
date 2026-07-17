@@ -1,0 +1,7 @@
+streamlit
+langchain-groq
+langgraph
+langchain
+langchain-core
+sentence-transformers
+numpy
